@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skaayth
-- 👀 I’m interested in Machine learning and Deep learning
-- 🌱 I’m currently learning computer vision , object detection , speech recognition, Natural language processing.
+- 👀 I’m interested in Deep learning
+- 🌱 I’m currently learning computer vision.
 - 💞️ I’m looking to collaborate on Deep learning projects.
 - 📫 Reach me at Skaayth@gmail.com
 

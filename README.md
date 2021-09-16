@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OpenCV,Tensorflow,Keras,Scikit-learn**
 
-- 👯 I’m looking to collaborate with **Web/App developers**
+- 👯 I’m looking to collaborate with **Web/App developers specialized in REST API's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Skaayth](https://github.com/Skaayth)
 

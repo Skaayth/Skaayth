@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/skaayth" target="blank"><img src="https://img.shields.io/twitter/follow/skaayth?logo=twitter&style=for-the-badge" alt="skaayth" /></a> </p>
 
-- 🔭 I’m currently working on **Image segmentation,Object Detection and GAN's**
+- 🔭 I’m currently working on **Computer Vision with Deeplearning**
 
 - 🌱 I’m currently learning **OpenCV,Tensorflow,Keras,Scikit-learn**
 

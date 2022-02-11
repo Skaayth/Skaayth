@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **Web/App developers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Skaayth](https://github.com/Skaayth)
+- 👨‍💻 All of my projects are available at [https://github.com/Skaayth?tab=repositories](https://github.com/Skaayth)
 
 - 📫 How to reach me **skaayth@gmail.com**
 

@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Computer Vision with Deeplearning**
 
-- 🌱 I’m currently learning **OpenCV,Tensorflow,Keras,Scikit-learn**
+- 🌱 I’m currently learning **How to apply state of the art vision algorithms in practice**
 
-- 👯 I’m looking to collaborate with **Web/App developers specialized in REST API's**
+- 👯 I’m looking to collaborate with **Web/App developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Skaayth](https://github.com/Skaayth)
 

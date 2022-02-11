@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Skaayth</h1>
+<h1 align="center">Hi 👋, I'm Saketh </h1>
 <h3 align="center">A passionate Computer vision and deeplearning enthusiast.</h3>
 
 <p align="left"> <a href="https://twitter.com/skaayth" target="blank"><img src="https://img.shields.io/twitter/follow/skaayth?logo=twitter&style=for-the-badge" alt="skaayth" /></a> </p>

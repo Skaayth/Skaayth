@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/skaayth" target="blank"><img src="https://img.shields.io/twitter/follow/skaayth?logo=twitter&style=for-the-badge" alt="skaayth" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision with Deeplearning**
 
-- 🌱 I’m currently learning **How to apply state of the art vision algorithms in practice**
+- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 
-- 👯 I’m looking to collaborate with **Web/App developers**
+- 👯 I’m looking to collaborate with **Full Stack developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Skaayth?tab=repositories](https://github.com/Skaayth)
 

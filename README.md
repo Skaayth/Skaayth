@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saketh </h1>
-<h3 align="center">A passionate Machine learning and Deeplearning enthusiast.</h3>
+<h3 align="center">A Computer Science Student with interests in Software Development and AI.</h3>
 
 <p align="left"> <a href="https://twitter.com/skaayth" target="blank"><img src="https://img.shields.io/twitter/follow/skaayth?logo=twitter&style=for-the-badge" alt="skaayth" /></a> </p>
 
-
-- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
-
-- 👯 I’m looking to collaborate with **Full Stack developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Skaayth?tab=repositories](https://github.com/Skaayth)
 

@@ -10,7 +10,6 @@
 ---
 
 ### 🛠️ Skills & Tools
-### 🛠️ Skills & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -43,14 +42,3 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
-
----
-
-<h1 align="center">Hi, I'm Saketh</h1>
-<h3 align="center">CS Grad | AI & Software Developer</h3>
-
----
-
-### 📫 Contact
-- **Email:** sakethpannala@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/sakethreddyp](https://www.linkedin.com/in/sakethreddyp)
